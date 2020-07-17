@@ -5,7 +5,7 @@ Enable a style in Pygments Python package for highlighting customized 'friendly'
 Install
 -----------
 
-`python -m pip install enigma-pygments-style`
+`python -m pip install enigma-pygments-style==2020.7.8.2`
 
 Verify it is working
 ---------------------

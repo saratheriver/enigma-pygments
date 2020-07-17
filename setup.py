@@ -4,7 +4,7 @@ import setuptools
 import sys
 
 
-_version = '2020.07.8'
+_version = '2020.07.8.2'
 _packages = ['style']
 
 _short_description = "enigma-pygments-style is a modern style based on the VIM pyte theme."
