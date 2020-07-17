@@ -1,4 +1,4 @@
-# AIMMS Pygments Style
+# ENIGMA Pygments Style
 
 Enable a style in Pygments Python package for highlighting customized 'friendly' code. Notably, this can be coupled with Sphinx Python documentation generator. 
 
